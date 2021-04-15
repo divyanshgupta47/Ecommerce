@@ -1,0 +1,1 @@
+dotnet publish EcommerceAPI.sln -r win10-x64 --framework net5.0 -o bin\EcommerceAPI -c Release --self-contained true
